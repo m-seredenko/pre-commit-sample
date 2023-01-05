@@ -18,7 +18,6 @@ repos:
     rev: 6.0.0
     hooks:
       - id: flake8
-#        args: ['--config=setup.cfg']
         additional_dependencies:
           # All-in-one
           - flake8-bugbear
