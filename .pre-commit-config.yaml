@@ -41,6 +41,7 @@ repos:
           - flake8-docstrings
 
           # Type annotations
+          - flake8-annotations
           - flake8-new-union-types
           - flake8-pep585
 
