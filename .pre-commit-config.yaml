@@ -42,6 +42,7 @@ repos:
 
           # Type annotations
           - flake8-annotations
+          - flake8-annotations-complexity
           - flake8-new-union-types
           - flake8-pep585
 
